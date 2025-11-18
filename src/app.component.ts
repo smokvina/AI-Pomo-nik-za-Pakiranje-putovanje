@@ -14,8 +14,8 @@ export class AppComponent {
 
   // Form signals
   destination = signal('Dubrovnik');
-  startDate = signal(this.getFutureDate(30));
-  endDate = signal(this.getFutureDate(34));
+  startDate = signal(this.getFutureDate(3));
+  endDate = signal(this.getFutureDate(6));
   activities = signal<Activity[]>([
     { description: 'Prisustvovanje kongresu i poslovni sastanci', time: 'dan' },
     { description: 'Večernji izlasci i večere', time: 'noć' },
