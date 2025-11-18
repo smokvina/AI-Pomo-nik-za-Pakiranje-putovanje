@@ -1,0 +1,5 @@
+{
+  "name": "Pomoćnik za Pakiranje",
+  "description": "Aplikacija za planiranje pakiranja odjeće za putovanje. Unesite destinaciju, datume i aktivnosti, a AI će generirati personalizirani popis stvari koje trebate ponijeti, uzimajući u obzir i vremensku prognozu.",
+  "requestFramePermissions": []
+}
